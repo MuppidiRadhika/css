@@ -23,4 +23,12 @@ Changes need to capture
 
 .........
 
-End
+
+
+
+Commiting latest modifications and changes
+
+
+in the meanwhile try to fetching the data from github to terminal
+
+END/
