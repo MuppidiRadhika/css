@@ -1,0 +1,26 @@
+Fruit names
+
+1.Apple
+2.Banana
+3.Citrus
+4.Dragon Fruit
+
+5.Pine Apple
+6.Mango
+
+
+................
+
+
+Do the changes once check the commit option
+
+........
+
+Thank you
+
+Changes need to capture
+
+
+.........
+
+End
